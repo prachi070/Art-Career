@@ -69,3 +69,10 @@ H2{
     height: 300px;
     padding: 10px;
 }
+button{
+    float: right;
+    background-color: black;
+    color: white;
+    padding: 18px;
+    font-size: 17px;
+}
