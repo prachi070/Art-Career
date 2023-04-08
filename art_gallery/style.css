@@ -20,6 +20,7 @@ body{
     text-align: center;
     font-size: 40pt;
 }
+
 #number{
     text-align: center;
     color: white;
@@ -27,7 +28,6 @@ body{
 }
 
 ul{
-
     font-family: Arial;
     list-style-type: none;
     margin: 0;
@@ -37,8 +37,7 @@ ul{
     height: 10%;
     position: fixed;
     top: 0;
-    width: 100%;
-    
+    width: 100%; 
 }    
   
 
@@ -49,7 +48,8 @@ li a{
     text-align: center;
     padding: 20px 30px;
     text-decoration: none;
-}    
+} 
+
 li a:hover{
     color:purple;
     font-size: 20px;
@@ -62,9 +62,7 @@ span{
     font-size: 17px;
     border-radius: px;
     border: 2px solid black;
-    background-color: rgb(95, 94, 94);
-
-    
+    background-color: rgb(95, 94, 94); 
 }   
 span:hover{
     color: aliceblue;
@@ -72,11 +70,8 @@ span:hover{
 }
 
 .slide-data{
-
     display: inline-block;
-    
 }
-
 
 .gal-img{
     border: 1px solid black;
@@ -84,10 +79,46 @@ span:hover{
     height: 470px;
     background-size: cover;
 }
+
 .logsign{
     padding: 2px;
     height: 60px;
     width: 180px;
     float: right;
 }
+
+/* second row stats explore by collection */
+
+.second-row{
+    margin-top: 70px;
+    margin-bottom: -20px;
+    font-size: 35px;
+    text-align: center;
+    padding: 20px;  
+    color: rgb(0, 0, 0);
+}
+.underline{
+    color: red;
+    text-align: center;
+    padding-bottom: 30px;
+    size: 20%;
+}
+
+.sidewise{
+    display: inline-block;
+    margin: 10px;
+}
+
+
+
+.gal2-img{
+    width: 230px;
+    border: 15px solid rgb(98, 89, 89); 
+}
+.images2{
+    text-align: center;
+
+}
+
+
 
