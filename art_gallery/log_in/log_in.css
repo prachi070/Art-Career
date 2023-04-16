@@ -1,0 +1,117 @@
+*{
+    text-decoration: none;
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-image: linear-gradient(rgb(229, 128, 229),rgb(78, 78, 246));
+}
+
+.formerror{
+    color: red;
+}
+.box{
+    border: 2px solid white;
+    width: 28%;
+    height: 560px;
+    margin: 100px 500px;
+    background-color: white;
+    border-radius: 4px;
+
+
+}
+
+.main-heading{
+    text-align: center;
+    padding: 20px;
+    padding-bottom: 0px;
+    font-size: 26pt;
+
+    margin-bottom: 40px ;
+}
+
+.block{
+    margin: 10px;
+
+}
+
+.box-block1{
+    padding:10px;
+    position: relative;
+    top: -19px;
+    height: 300px;
+    margin-top: 10px;
+
+    
+}
+.formdesign{
+    border: 1px solid gray;
+    border-radius: 2px;
+    padding: 17px;
+    width: 300px;
+    margin-left: 15px;
+}
+
+.but{
+    padding:10px;
+    width:300px;
+    border-color:blue;
+    border-radius:18px ;
+    background-color:blue;
+    color:white;
+    font-size:12pt;
+    
+    
+}
+
+.submit-button{
+    padding:40px;
+    text-align:center;
+    padding-top: 8px;
+    position: relative;
+    top:-24px;
+
+
+}
+
+.or{
+    position: relative;
+    top:-45px;
+    background-color: white;
+    width: 30px;
+    margin-left: 200px;
+    text-align: center;
+
+
+}
+
+.line{
+    position: relative;
+    bottom: 35px;
+    border: 1px solid rgb(188, 184, 184);
+}
+
+#chrome-logo{
+    background-color: transparent;
+    position: relative;
+    top:-5px ;
+    color: rgb(72, 69, 69);
+    border-color:rgb(91, 88, 88) ;
+    
+}
+.google-photo{
+    position: relative;
+    width: 18px;
+    left: 70px;
+    top:-1px;
+}
+
+#continue-with-google{
+    position: relative;
+    bottom: 10px;
+    left: -12px;
+}
+.forgot-pass{
+    float: right;
+    
+}
