@@ -64,19 +64,19 @@ body{
     
 }
 
-.submit-button{
+.log_in_button{
     padding:40px;
     text-align:center;
     padding-top: 8px;
     position: relative;
-    top:-24px;
+    bottom: 150px;
 
 
 }
 
 .or{
     position: relative;
-    top:-45px;
+    bottom: 175px;
     background-color: white;
     width: 30px;
     margin-left: 200px;
@@ -87,7 +87,7 @@ body{
 
 .line{
     position: relative;
-    bottom: 35px;
+    bottom: 165px;
     border: 1px solid rgb(188, 184, 184);
 }
 
@@ -113,5 +113,28 @@ body{
 }
 .forgot-pass{
     float: right;
+    
+}
+
+.create_account{
+    display: inline-flex;
+    position: relative;
+    bottom: 140px;
+    width: 100%;
+    text-align: center;
+}
+
+.go_to_sign_in_page{
+    background-color:transparent;
+    color:blue;
+    position:relative;
+    left:95px;
+    border:none;
+    font-size:12pt;
+}
+.ask_to_user{
+    position:relative;
+    left:85px;
+    font-size:12.5pt;
     
 }
