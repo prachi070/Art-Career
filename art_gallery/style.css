@@ -423,25 +423,24 @@ li.li-images {
 
 /* seventh */
 .seventh-block{
-    border: 2px solid red;
     display: flex;
+    padding-bottom: 15px;
+    border: 2px solid rgb(71, 71, 71);
+    background-image: linear-gradient(rgb(200, 194, 194), rgb(121, 118, 118));
 
 }
 
 .div-box1{
-    border: 2px solid blue;
     width: 520px;
     padding-left:12px;
 
 }
 .div-box2{
-    border: 2px solid blue;
     width: 520px;
     padding-left:12px;
 
 }
 .div-box3{
-    border: 2px solid blue;
     width: 520px;
     padding-left:12px;
 
@@ -451,14 +450,25 @@ li.li-images {
 }
 
 .seventh-block-heading{
-    border: 2px solid purple;
     padding-bottom: 12px;
     text-decoration: none;
     font-weight: 600;
+    padding-top: 15px;
 
 }
 
-.socialmedia-handles{
-    border: 2px solid green;
+.socialmedial-handels{
+    margin-top: 12px;
+}
 
+
+.seventh-block2-email{
+    margin-top: 12px;
+}
+.seventh-block2-phone{
+    margin-top: 12px
+
+}
+.seventh-block1-span2{
+    padding-right: 100px;
 }
