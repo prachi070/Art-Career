@@ -420,3 +420,45 @@ li.li-images {
 .sixth-first-row{
     float:left;
 }
+
+/* seventh */
+.seventh-block{
+    border: 2px solid red;
+    display: flex;
+
+}
+
+.div-box1{
+    border: 2px solid blue;
+    width: 520px;
+    padding-left:12px;
+
+}
+.div-box2{
+    border: 2px solid blue;
+    width: 520px;
+    padding-left:12px;
+
+}
+.div-box3{
+    border: 2px solid blue;
+    width: 520px;
+    padding-left:12px;
+
+}
+.seventh-block1-span{
+    display: inline-flex;
+}
+
+.seventh-block-heading{
+    border: 2px solid purple;
+    padding-bottom: 12px;
+    text-decoration: none;
+    font-weight: 600;
+
+}
+
+.socialmedia-handles{
+    border: 2px solid green;
+
+}
