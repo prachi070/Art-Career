@@ -109,7 +109,7 @@ body{
     padding: 0px 2px;
     height: 20%;
     width: 16%;
-    background-image: linear-gradient(rgb(131, 74, 131),pink);
+    background-image: linear-gradient(rgb(139 91 139),#9e293e);
     border-radius: 18px;
 
 }
